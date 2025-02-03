@@ -1,2 +1,2 @@
-# FirstTestRepo
- 
+Description: The link will redirect you to my github and there is a instrution about what to install and how to set up the pytessaract and trocr on your server. Make sure to run the api for ensuring the accuracy of the OCR technology.
+OCR link: https://github.com/ahbert00/ocr
